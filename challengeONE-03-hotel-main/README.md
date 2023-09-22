@@ -27,20 +27,4 @@ Aplicación Full-Stack Java y JavaFX con base de datos SQL, para gestionar regis
 - H2 Database
 - Interfaz de usuario JavaFX
 
-### Ejecución
 
-1. Clonar repositorio:
-
-```zsh
-git clone https://github.com/JosePhee03/challengeONE-03-hotel
-```
-2. Ir al directorio del proyecto:
-
-```zsh
-cd challengeONE-03-hotel
-```
-3. Ejecutar Maven:
-
-```zsh
-mvn javafx:run -f pom.xml  
-```
